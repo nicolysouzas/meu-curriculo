@@ -68,8 +68,8 @@ h2 {
       margin: auto auto 0;
       padding: 0.5rem; }
       #sideNav .navbar-brand .img-profile {
-        max-width: 17rem;
-        max-height: 17rem;
+        max-width: 13rem;
+        max-height: 13rem;
         border: 0.5rem solid rgba(255, 255, 255, 0.2); }
     #sideNav .navbar-collapse {
       display: flex;
